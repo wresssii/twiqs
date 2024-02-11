@@ -166,11 +166,20 @@ section {
 .our__sec_tit {
   text-align: left;
   font-size: 52px;
-  font-family: "Roboto";
   margin-bottom: 75px;
   font-weight: 400;
 }
 
-.our_img {
-  backdrop-filter: blur(100px);
+.say_img {
+  width: 197px;
+  height: 197px;
+  margin: auto;
+}
+
+.say_tit {
+  font-size: 40px;
+  font-weight: 700;
+  line-height: 52px;
+  letter-spacing: 0em;
+  text-align: center;
 }
