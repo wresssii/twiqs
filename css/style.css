@@ -177,9 +177,10 @@ section {
 }
 
 .say_tit {
+  max-width: 682px;
   font-size: 40px;
   font-weight: 700;
   line-height: 52px;
-  letter-spacing: 0em;
   text-align: center;
+  margin: auto;
 }
