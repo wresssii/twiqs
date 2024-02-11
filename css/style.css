@@ -190,12 +190,13 @@ section {
   width: 108px;
   height: 151px;
   position: fixed;
+  bottom: 1255px;
 }
 
 .say_two {
   width: 230px;
   height: 304px;
-  left: 1284px;
+  left: 1312px;
   position: fixed;
 }
 
@@ -203,32 +204,36 @@ section {
   width: 288px;
   height: 391px;
   position: fixed;
+  bottom: 714px;
 }
 
 .say_four {
   width: 331px;
   height: 326px;
-  left: 415px;
+  left: 1587px;
   position: fixed;
+  bottom: 773px;
 }
 
 .say_five {
   width: 230px;
   height: 230px;
-  left: 793px;
+  left: 1965px;
   position: fixed;
+  bottom: 962px;
 }
 
 .say_six {
   width: 245px;
   height: 313px;
-  left: 1051px;
+  left: 2223px;
   position: fixed;
 }
 
 .say_seven {
   width: 302px;
   height: 338px;
-  left: 946px;
+  left: 2120px;
   position: fixed;
+  bottom: 717px;
 }
